@@ -1,0 +1,19 @@
+# Godot 4+ specific ignores
+.godot/
+*.dll
+*.pck
+*.exe
+*.so
+*.dylib
+
+# C# / .NET specific
+bin/
+obj/
+*.user
+*.suo
+*.userprefs
+.vs/
+
+# Build outputs
+export/
+builds/
