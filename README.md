@@ -6,6 +6,8 @@
 
 注意：请把下载后的文件后缀改名为.zip
 
+注意：必须得先解锁一次多人游戏的进阶1
+
 ## 安装方法
 
 1. 下载 `ascension_unlock.dll` 和 `ascension_unlock.pck` 两个文件
