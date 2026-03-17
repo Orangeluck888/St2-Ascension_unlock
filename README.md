@@ -8,6 +8,8 @@
 
 注意：必须得先解锁一次多人游戏的进阶1
 
+现在出bug了维修中
+
 ## 安装方法
 
 1. 下载 `ascension_unlock.dll` 和 `ascension_unlock.pck` 两个文件
